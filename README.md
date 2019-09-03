@@ -1,2 +1,3 @@
-#myapp
-this is my app
+# MyApp
+
+this is my app for the github lesson.
